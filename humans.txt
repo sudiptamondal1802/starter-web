@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sudipta Mondal sudipta.mondal1802@gmail.com
 
 # THANKS
 
